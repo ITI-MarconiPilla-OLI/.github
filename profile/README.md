@@ -1,12 +1,23 @@
-## Hi there 👋
+# <img src="./assets/itis-marconi-icon.png" alt="Logo ITIS" width="24" height="24"/>  ITIS G. Marconi Campobasso - Olimpiadi di Informatica
 
-<!--
+Benvenuti nell'organizzazione GitHub dell'**ITIS G. Marconi di Campobasso** dedicata alle **Olimpiadi di Informatica**. Questo spazio è riservato agli studenti partecipanti, dove troverete materiale per la preparazione alle competizioni.
 
-**Here are some ideas to get you started:**
+## 📁 Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 1. **Esercizi e Problemi**
+   - Raccolta di esercizi e problemi di allenamento per le Olimpiadi di Informatica.
+
+### 2. **Soluzioni**
+   - Soluzioni ufficiali e proposte dai partecipanti.
+
+## 💻 Come Partecipare
+
+Gli studenti possono contribuire seguendo questi semplici passi:
+
+1. **Forka** la repository.
+2. Crea un **branch** per le modifiche.
+3. **Invia una pull request** con una descrizione delle modifiche.
+
+## 📧 Contatti
+
+Per ulteriori informazioni, contattare il proprio docente referente.
