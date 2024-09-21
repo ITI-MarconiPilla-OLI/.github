@@ -29,7 +29,6 @@
     <hr>
     <ul style="list-style-position: inside;">
       <div style="text-align: center;">
-          <p><b>🔧 Gli studenti possono contribuire seguendo questi semplici passi:</b></p>
           <p>🗄️ Forka la repository.</p>
           <p>🛣️ Crea un branch per le modifiche.</p>
           <p>📤 Invia una pull request con una descrizione delle modifiche.</p>
