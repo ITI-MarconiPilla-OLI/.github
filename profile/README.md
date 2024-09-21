@@ -19,9 +19,9 @@
     <ul style="list-style-position: inside;">
       <div style="text-align: center;">
           <h3><b>📚 Esercizi e Problemi</b></h3>
-          <li>📘 Raccolta di esercizi e problemi di allenamento per le Olimpiadi di Informatica</li>
+          <p>📘 Raccolta di esercizi e problemi di allenamento per le Olimpiadi di Informatica</p>
           <h3><b>📝 Soluzioni</b></h3>
-          <li>✅ Soluzioni ufficiali e proposte dai partecipanti.</li>
+          <p>✅ Soluzioni ufficiali e proposte dai partecipanti.</p>
       </div>
     </ul>
     <hr>
@@ -30,9 +30,9 @@
     <ul style="list-style-position: inside;">
       <div style="text-align: center;">
           <h3><b>🔧 Gli studenti possono contribuire seguendo questi semplici passi:</b></h3>
-          <li>🗄️ Forka la repository.</li>
-          <li>🛣️ Crea un branch per le modifiche.</li>
-          <li>📤 Invia una pull request con una descrizione delle modifiche.</li>
+          <p>🗄️ Forka la repository.</p>
+          <p>🛣️ Crea un branch per le modifiche.</p>
+          <p>📤 Invia una pull request con una descrizione delle modifiche.</p>
       </div>
     </ul>
     <hr>
