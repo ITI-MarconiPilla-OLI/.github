@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="./assets/itis-marconi-icon.png" alt="Logo ITIS" width="80" height="80" />
+  <img src="./assets/itis-marconi-icon.png" alt="Logo ITIS" width="90" height="90" />
   <br />
-  <strong>ITIS G. Marconi Campobasso - Olimpiadi di Informatica</strong>
+  <strong text-align: center;>Istituto Tecnico G. Marconi L. Pilla - Olimpiadi di Informatica</strong>
 </p>
 
-Benvenuti nell'organizzazione GitHub dell'**ITIS G. Marconi di Campobasso** dedicata alle **Olimpiadi di Informatica**. Questo spazio è riservato agli studenti partecipanti, dove troverete materiale per la preparazione alle competizioni.
+<p align="center">
+  <strong>Benvenuti nell'organizzazione GitHub dell' <a href="https://iti-marconi.edu.it/">Istituto Tecnico G. Marconi L. Pilla</a>
+  dedicata alle <a href="https://www.olimpiadi-informatica.it/">Olimpiadi di Informatica</a>. Questo spazio è riservato agli studenti partecipanti, dove troverete materiale per la preparazione alle competizioni.</strong>
+</p>
 
 ## 📁 Repositories
 
