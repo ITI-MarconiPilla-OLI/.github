@@ -18,10 +18,8 @@
     <hr>
     <ul style="list-style-position: inside;">
       <div style="text-align: center;">
-          <h3><b>📚 Esercizi e Problemi</b></h3>
-          <p>📘 Raccolta di esercizi e problemi di allenamento per le Olimpiadi di Informatica</p>
-          <h3><b>📝 Soluzioni</b></h3>
-          <p>✅ Soluzioni ufficiali e proposte dai partecipanti.</p>
+          <p><b>📘 Raccolta di esercizi e problemi di allenamento per le Olimpiadi di Informatica</p>
+          <p><b>✅ Soluzioni ufficiali e proposte dai partecipanti.</p>
       </div>
     </ul>
     <hr>
